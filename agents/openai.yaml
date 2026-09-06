@@ -1,0 +1,4 @@
+interface:
+  display_name: "网站剪报归档"
+  short_description: "按用户名或主题保存动态网页，并维护可续跑的关系记录"
+  default_prompt: "使用 $archive-web-clippings 从这些入口建立一个可续跑的网站剪报项目。"
